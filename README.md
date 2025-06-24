@@ -1,2 +1,2 @@
-# Supplier-Clustering
+# Supplier Clustering
 Project Overview
