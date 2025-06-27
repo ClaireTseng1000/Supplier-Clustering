@@ -4,6 +4,7 @@ This project applies **clustering** and **linear programming** techniques to ana
 - Identify distinct supplier groups through K-means clustering
 - Explore relationships between supplier clusters and characteristics
 - Develop a cost-minimization supply plan through linear programming<br>
+
 **Part 1:** Cluster suppliers based on quality, cost, delivery time, and flexibility.<br>
 **Part 2:** Use linear programming to minimize transportation and manufacturing costs while satisfying customer demand.<br>
 
