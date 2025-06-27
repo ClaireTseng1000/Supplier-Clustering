@@ -3,9 +3,9 @@
 This project applies **clustering** and **linear programming** techniques to analyze supplier performance and optimize supply allocation.
 - Identify distinct supplier groups through K-means clustering
 - Explore relationships between supplier clusters and characteristics
-- Develop a cost-minimization supply plan through linear programming
-**Part 1:** Cluster suppliers based on quality, cost, delivery time, and flexibility.
-**Part 2:** Use linear programming to minimize transportation and manufacturing costs while satisfying customer demand.
+- Develop a cost-minimization supply plan through linear programming<br>
+**Part 1:** Cluster suppliers based on quality, cost, delivery time, and flexibility.<br>
+**Part 2:** Use linear programming to minimize transportation and manufacturing costs while satisfying customer demand.<br>
 
 ## Part 1 – Supplier Clustering
 
@@ -13,16 +13,17 @@ This project applies **clustering** and **linear programming** techniques to ana
 Group suppliers based on performance to uncover meaningful patterns.
 
 ### Cluster Interpretations
-**cluster 1**: high quality, high cost, fast delivery, low flexibility<br>
-**cluster 2**: low quality, low cost, slow delivery, high flexibility<br>
-**cluster 3**: high quality, low cost, slow delivery, low flexibility<br>
-**cluster 4**: average quality, slightly high cost, fast delivery, high flexibility
+**cluster 1**: Suitable for situations requiring high quality and consistency, with less concern about cost or customization.<br>
+**cluster 2**: Suitable for cost-sensitive needs with high delivery and customization flexibility, but less focus on quality.<br>
+**cluster 3**: Good for standardized, high-volume production that values quality and cost over customization<br>
+**cluster 4**: high-risk suppliers with inconsistent performance, but advantages in speed and adaptability.
 
 ## Part 2 – Linear Programming Optimization
 
 ### Goal
 Minimize total cost while fulfilling customer demand across multiple nodes in a supply chain.
 
+### Supply Chain Network
 ![Supply Chain Network](https://github.com/user-attachments/assets/a77b511e-dfe1-477b-a973-6b6f1bcdbab0)
 
 ### Transportation Cost Table
