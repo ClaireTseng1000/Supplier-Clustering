@@ -26,6 +26,8 @@ Minimize total cost while fulfilling customer demand across multiple nodes in a 
 
 ### Supply Chain Network
 ![Supply Chain Network](https://github.com/user-attachments/assets/a77b511e-dfe1-477b-a973-6b6f1bcdbab0)
+There are two suppliers (S1 and S2), two warehouses (D1 and D2) and three retailers (R1, R2 and R3).<br>
+The demand at the retailers are 1500 units, 2000 units and 1000 units respectively for R1, R2, and R3.
 
 ### Transportation Cost Table
 | From → To         | W1      | W2      | R1      | R2      | R3      |
