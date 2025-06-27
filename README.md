@@ -25,7 +25,7 @@ Group suppliers based on performance to uncover meaningful patterns.
 Minimize total cost while fulfilling customer demand across multiple nodes in a supply chain.
 
 ### Supply Chain Network
-![Screenshot 2025-05-11 233616](https://github.com/user-attachments/assets/640addc4-e5e7-44b8-9dbf-8b6c0b6e469b)<br>
+![Supply Chain Network](https://github.com/user-attachments/assets/65db39e1-d3f0-401e-af68-b648105c80d5)<br>
 There are two suppliers (S1 and S2), two warehouses (D1 and D2) and three retailers (R1, R2 and R3).<br>
 The demand at the retailers are 1500 units, 2000 units and 1000 units respectively for R1, R2, and R3.
 
