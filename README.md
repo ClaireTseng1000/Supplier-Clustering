@@ -13,9 +13,9 @@ This project applies **clustering** and **linear programming** techniques to ana
 Group suppliers based on performance to uncover meaningful patterns.
 
 ### Cluster Interpretations
-**cluster 1**: high quality, high cost, fast delivery, low flexibility
-**cluster 2**: low quality, low cost, slow delivery, high flexibility
-**cluster 3**: high quality, low cost, slow delivery, low flexibility
+**cluster 1**: high quality, high cost, fast delivery, low flexibility<br>
+**cluster 2**: low quality, low cost, slow delivery, high flexibility<br>
+**cluster 3**: high quality, low cost, slow delivery, low flexibility<br>
 **cluster 4**: average quality, slightly high cost, fast delivery, high flexibility
 
 ## Part 2 – Linear Programming Optimization
@@ -23,8 +23,8 @@ Group suppliers based on performance to uncover meaningful patterns.
 ### Goal
 Minimize total cost while fulfilling customer demand across multiple nodes in a supply chain.
 
+![Supply Chain Network](https://github.com/user-attachments/assets/a77b511e-dfe1-477b-a973-6b6f1bcdbab0)
 
-![Supply Chain Network]("E:\BADM 575\Supply Chain Network.png")
 ### Transportation Cost Table
 | From → To         | W1      | W2      | R1      | R2      | R3      |
 |------------------|---------|---------|---------|---------|---------|
